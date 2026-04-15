@@ -1,0 +1,14 @@
+.input__text{
+    background-color: rgba(64, 61, 61, 0.597);
+    padding: 10px 10px ;
+    color: white;
+}
+.list a{
+    color: white;
+}
+.test{
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
